@@ -1,2 +1,3 @@
 # Podcast-Website
-I designed a podcast website with a clean and easy-to-use layout. The website allows users to browse episodes, search for their favorite podcasts, and listen with simple playback controls.The goal was to ensure seamless usability, helping users discover and enjoy content effortlessly.
+
+https://www.figma.com/design/HfL6FxRmd5pqiLN5eCu6Ga/Web-ui?node-id=0-1&p=f&t=oi3ihEkB7iPu3IN2-0
